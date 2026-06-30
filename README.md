@@ -27,7 +27,8 @@
 <h1 align="center">Hi 👋, I'm Hiran Rajbanshi</h1>
 <h3 align="center">A passionate Cybersecurity Student & IT Support Enthusiast from Nepal 🇳🇵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiranrajcomnp-ux&label=Profile%20views&color=0e75b6&style=flat" alt="hiranrajcomnp-ux" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiranrajcomnp-ux" alt="hiranrajcomnp-ux" /></a> </p>
 
