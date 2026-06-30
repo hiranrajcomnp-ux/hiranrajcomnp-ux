@@ -42,7 +42,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hiranrajcomnp-ux](https://github.com/hiranrajcomnp-ux)
 
-- 📝 I regularly write articles on [Currently not publishing articles yet (coming soon)]
+- 📝📝 I regularly write articles and technical write-ups on Cybersecurity, Networking, Kali Linux, Ethical Hacking, and Open Source technologies.)]
 - 💬 Ask me about **Cybersecurity, Kali Linux, Cisco Networking, DFIR, and IT Support**
 
 - 📫 How to reach me **hiran.raj.com.np@gmail.com**
