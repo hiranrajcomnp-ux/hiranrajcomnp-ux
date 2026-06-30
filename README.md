@@ -2,8 +2,6 @@
 
 ###
 
-<div data-importer="techs" align="center">
- <div align="center">
 
   <!-- Facebook -->
   <a href="https://facebook.com/vaskar7498" target="_blank">
